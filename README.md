@@ -1,6 +1,6 @@
 # flutter_webview
 
-A new Flutter project.
+A Flutter project of [Flutter WebView Codelab](https://codelabs.developers.google.com/codelabs/flutter-webview)
 
 ## Getting Started
 
